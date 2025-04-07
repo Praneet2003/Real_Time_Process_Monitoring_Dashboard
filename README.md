@@ -80,3 +80,8 @@ psutil for powerful system insights
 pandas for easy data handling
 
 You, for using this tool! ❤️
+
+Contributed by :
+1. Praneet Raj
+2. Nikhil Prakash
+3. Rohit Singh Yadav
