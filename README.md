@@ -82,8 +82,9 @@ pandas for easy data handling
 You, for using this tool! ❤️
 
 Images of running program:
-![alt text](<Screenshot (99).png>)
 
+![alt text](<Screenshot (99).png>)
+![alt text](<Screenshot (97).png>)
 Contributed by :
 1. Praneet Raj
 2. Nikhil Prakash
